@@ -15,7 +15,7 @@ Zde se nachází seznam předmětů. Každý předmět je ještě následně roz
 * PVA1 - [Programování a vývoj aplikací - 1. ročník](https://github.com/TurboEdmund/SPSUL/tree/main/PVA1)
 * PVA2 - [Programování a vývoj aplikací - 2. ročník](https://github.com/TurboEdmund/SPSUL/tree/main/PVA2)
 
-## 3. O mne
+## 3. O mně
 
 Vysokoškolský pedagog na Přírodovědecké fakultě UJEP, středoškolský pedagog na gymnáziu GJJ Litoměřice. Zabývám se zejména problematikou:
 * Softwarové inženýrství
@@ -30,5 +30,5 @@ Ve volném čase trénuji BJJ (brazilské jiu-jiutsu) a MMA (mixed martial arts)
 ## 4. Kontakt
 
 * Email: marek.helis@seznam.cz nebo edmund.helis@gmail.com (osobní - preferuji), marekhelis@spsul.cz (pracovní)
-* Instagram: @marekhelis
+* Instagram: [@marekhelis](https://www.instagram.com/marekhelis/)
 * Discord: @turboedmund
