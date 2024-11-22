@@ -17,15 +17,11 @@ Zde se nachází seznam předmětů. Každý předmět je ještě následně roz
 
 ## 3. O mně
 
-Vysokoškolský pedagog na Přírodovědecké fakultě UJEP, středoškolský pedagog na gymnáziu GJJ Litoměřice. Zabývám se zejména problematikou:
+Středoškolský pedagog na Střední průmyslové škole v Ústí nad Labem - středisko Střírbníky. Zabývám se zejména problematikou:
 * Softwarové inženýrství
-* Simulace polymerních materiálů
-* Strojové učení
-* Videoherní studia
-* Didaktika fyziky, informatiky a matematiky
-* Psychologie, sociologie a regionální rozvoj
+* Vývoj desktopových a mobilních aplikací
 
-Ve volném čase trénuji BJJ (brazilské jiu-jiutsu) a MMA (mixed martial arts), čtení složitých knížek o fyzice a hraní videoher.
+Ve volném čase se věnuji trénování plavání, hře na bicí a létání s ultralehkými letadli.
 
 ## 4. Kontakt
 
