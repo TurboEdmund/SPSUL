@@ -1,6 +1,6 @@
 # SPSUL
 
-<img src="https://github.com/TurboEdmund/SPSUL/blob/main/logo_spsul.jpg" alt="logo spsul" height="150">
+<img src="https://github.com/TurboEdmund/SPSUL/blob/main/logo_spsul.jpg" alt="logo spsul">
 
 ## 1. Přivítání
 
