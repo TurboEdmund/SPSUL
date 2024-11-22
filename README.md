@@ -1,7 +1,6 @@
 # SPSUL
 
-<img src="https://spsul.cz/wp-content/uploads/2024/10/spsul-logo.webp" alt="logo spsul" width="150" height="150">
-<img src="https://spsul.cz/wp-content/uploads/2024/10/spsul-logo-uk.png" alt="logo sps" height="150">
+<img src="https://github.com/TurboEdmund/SPSUL/blob/main/logo_spsul.jpg" alt="logo spsul" height="150">
 
 ## 1. Přivítání
 
@@ -13,8 +12,8 @@ Zde se nachází seznam předmětů. Každý předmět je ještě následně roz
 
 ### 18-20-M/01 Informační technologie
 
-* PVA1 - [Programování a vývoj aplikací - 1. ročník] (https://github.com/TurboEdmund/SPSUL)
-* PVA2 - [Programování a vývoj aplikací - 2. ročník] (https://github.com/TurboEdmund/SPSUL)
+* PVA1 - [Programování a vývoj aplikací - 1. ročník](https://github.com/TurboEdmund/SPSUL/tree/main/PVA1)
+* PVA2 - [Programování a vývoj aplikací - 2. ročník](https://github.com/TurboEdmund/SPSUL/tree/main/PVA2)
 
 ## 3. O mne
 
