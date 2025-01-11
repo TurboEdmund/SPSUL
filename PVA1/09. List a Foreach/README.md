@@ -1,3 +1,3 @@
 # PVA1 - List a Foreach
 
-Doplnit!
+Soubor **9S. List a Foreach.pdf** obsahuje informace k tématu a **ListForeachDictionary.cs** obsahuje ukázkový kód.
